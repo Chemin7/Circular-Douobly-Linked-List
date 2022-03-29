@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648573218 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 10\circular-double-linked-list\main.cpp
+	<iostream>
+	<string>
+	"list.h"
+	"validate.h"
+
+1648529538 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 10\circular-double-linked-list\list.h
+	<string>
+	"node.h"
+	<functional>
+	<iostream>
+	<iomanip>
+
+1648497812 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 10\circular-double-linked-list\node.h
+
+1648572946 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 10\circular-double-linked-list\validate.h
+	<string>
+
